@@ -1,4 +1,5 @@
 # College Student Dietary & Lifestyle Dashboard
+https://xlhmnn95mll2gqx7gotyeq.streamlit.app/
 
 This repository contains a Streamlit app (app.py) for exploratory analysis of a college student food choices dataset (food_coded.csv).
 
