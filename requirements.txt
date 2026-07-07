@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+matplotlib
+wordcloud
+pillow
+numpy
+statsmodels
